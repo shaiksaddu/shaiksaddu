@@ -1,4 +1,4 @@
-![logo](blob:https://web.whatsapp.com/2fa9ff1e-24e6-479f-a20a-ae5f90ee256e)
+![logo](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)
 )
 <h1 align="center">Hi 👋, I'm Shaik saddam hussain</h1>
 <h3 align="center">A passionate developer from India</h3>
